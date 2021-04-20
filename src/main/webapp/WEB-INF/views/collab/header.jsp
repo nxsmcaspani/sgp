@@ -27,6 +27,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="nouveau">Creer Collaborateur</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="statistics">Statistiques</a>
+            </li>
         </ul>
     </div>
 </nav>

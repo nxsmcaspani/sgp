@@ -32,4 +32,28 @@ public class Collaborateur {
     public String getNom() {
         return this.nom;
     }
+
+    public String getPrenom() {
+        return this.prenom;
+    }
+
+    public LocalDate getDateDeNaissance() {
+        return this.dateDeNaissance;
+    }
+
+    public String getAdresse() {
+        return this.Adresse;
+    }
+
+    public String getNumeroSecu() {
+        return this.numeroSecu;
+    }
+
+    public String getPhoto() {
+        return this.photo;
+    }
+
+    public String getMatricule() {
+        return matricule;
+    }
 }
